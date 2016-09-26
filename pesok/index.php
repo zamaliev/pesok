@@ -5,6 +5,6 @@
 	<title>Имя</title>
 </head>
 <body>
-	Привет
+	Привет мир
 </body>
 </html>
